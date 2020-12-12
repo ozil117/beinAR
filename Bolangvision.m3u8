@@ -277,3 +277,115 @@ http://sarhantv.xyz:25461/zal/tv/140
 http://sarhantv.xyz:25461/zal/tv/141
 #EXTINF:-1 tvg-id="" tvg-name="mbc persia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/MBC_Persia_2020.png" group-title="MBC",mbc persia
 http://sarhantv.xyz:25461/zal/tv/142
+
+
+#EXTM3U
+#EXTINF: -1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL 4K HEVC H265" group-title="SKY SPORT", SKY SPORT FOOTBALL 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6625.m3u8
+#EXTINF: -1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20FOOTBALL%20FULL%20HD.png" group-title="SKY SPORT", SKY SPORT FOOTBALL FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/52.m3u8
+#EXTINF: -1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20FOOTBALL%20HD.png" group-title="SKY SPORT", SKY SPORT FOOTBALL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/51.m3u8
+#EXTINF: -1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL SD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20FOOTBALL%20SD.png" group-title="SKY SPORT", SKY SPORT FOOTBALL SD
+http://live.safetv2.pro:23000/live/girasole/girasole/50.m3u8
+#EXTINF: -1 tvg-id="SkySportFootball.it" tvg-name="SKY SPORT FOOTBALL HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20FOOTBALL%20HD.png" group-title="SKY SPORT", SKY SPORT FOOTBALL HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5568.m3u8
+#EXTINF: -1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%2024%20FULL%20HD.png" group-title="SKY SPORT", SKY SPORT 24 FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/62.m3u8
+#EXTINF: -1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%2024%20HD.png" group-title="SKY SPORT", SKY SPORT 24 HD
+http://live.safetv2.pro:23000/live/girasole/girasole/61.m3u8
+#EXTINF: -1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 SD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%2024%20SD.png" group-title="SKY SPORT", SKY SPORT 24 SD
+http://live.safetv2.pro:23000/live/girasole/girasole/60.m3u8
+#EXTINF: -1 tvg-id="SkySport24.it" tvg-name="SKY SPORT 24 HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%2024%20HD.png" group-title="SKY SPORT", SKY SPORT 24 HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5565.m3u8
+#EXTINF: -1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA 4K HEVC H265" group-title="SKY SPORT", SKY SPORT NBA 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6627.m3u8
+#EXTINF: -1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20NBA%20FULL%20HD.png" group-title="SKY SPORT", SKY SPORT NBA FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/43.m3u8
+#EXTINF: -1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20NBA%20HD.png" group-title="SKY SPORT", SKY SPORT NBA HD
+http://live.safetv2.pro:23000/live/girasole/girasole/42.m3u8
+#EXTINF: -1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA SD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20NBA%20SD.png" group-title="SKY SPORT", SKY SPORT NBA SD
+http://live.safetv2.pro:23000/live/girasole/girasole/41.m3u8
+#EXTINF: -1 tvg-id="SkySportNBA.it" tvg-name="SKY SPORT NBA HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20NBA%20HD.png" group-title="SKY SPORT", SKY SPORT NBA HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5566.m3u8
+#EXTINF: -1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO 4K HEVC H265" group-title="SKY SPORT", SKY SPORT UNO 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6626.m3u8
+#EXTINF: -1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20UNO%20FULL%20HD.png" group-title="SKY SPORT", SKY SPORT UNO FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/37.m3u8
+#EXTINF: -1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20UNO%20HD.png" group-title="SKY SPORT", SKY SPORT UNO HD
+http://live.safetv2.pro:23000/live/girasole/girasole/36.m3u8
+#EXTINF: -1 tvg-id="SkySportUno.it" tvg-name="SKY SPORT UNO SD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20UNO%20SD.png" group-title="SKY SPORT", SKY SPORT UNO SD
+http://live.safetv2.pro:23000/live/girasole/girasole/35.m3u8
+#EXTINF: -1 tvg-name="SKY SPORT UNO HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20UNO%20HD.png" group-title="SKY SPORT", SKY SPORT UNO HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5567.m3u8
+#EXTINF: -1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA 4K HEVC H265" group-title="SKY SPORT", SKY SPORT ARENA 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6624.m3u8
+#EXTINF: -1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20ARENA%20FULL%20HD.png" group-title="SKY SPORT", SKY SPORT ARENA FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/59.m3u8
+#EXTINF: -1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20ARENA%20HD.png" group-title="SKY SPORT", SKY SPORT ARENA HD
+http://live.safetv2.pro:23000/live/girasole/girasole/58.m3u8
+#EXTINF: -1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA SD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20ARENA%20SD.png" group-title="SKY SPORT", SKY SPORT ARENA SD
+http://live.safetv2.pro:23000/live/girasole/girasole/57.m3u8
+#EXTINF: -1 tvg-id="SkySportArena.it" tvg-name="SKY SPORT ARENA HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20ARENA%20HD.png" group-title="SKY SPORT", SKY SPORT ARENA HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5569.m3u8
+#EXTINF: -1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT COLLECTION 4K HEVC H265" group-title="SKY SPORT", SKY SPORT COLLECTION 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6623.m3u8
+#EXTINF: -1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT COLLECTION FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20GOLF%20FULL%20HD.png" group-title="SKY SPORT", SKY SPORT COLLECTION FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/49.m3u8
+#EXTINF: -1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT COLLECTION HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20GOLF%20HD.png" group-title="SKY SPORT", SKY SPORT COLLECTION HD
+http://live.safetv2.pro:23000/live/girasole/girasole/48.m3u8
+#EXTINF: -1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT COLLECTION SD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20GOLF%20SD.png" group-title="SKY SPORT", SKY SPORT COLLECTION SD
+http://live.safetv2.pro:23000/live/girasole/girasole/47.m3u8
+#EXTINF: -1 tvg-id="SkySportGolf.it" tvg-name="SKY SPORT COLLECTION HD +1" group-title="SKY SPORT", SKY SPORT COLLECTION HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5570.m3u8
+#EXTINF: -1 tvg-id="SKY SPORT F1 HD" tvg-name="SKY SPORT F1 4K HEVC H265" group-title="SKY SPORT", SKY SPORT F1 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6622.m3u8
+#EXTINF: -1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20F1%20FULL%20HD.png" group-title="SKY SPORT", SKY SPORT F1 FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/55.m3u8
+#EXTINF: -1 tvg-name="SKY SPORT F1 HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20F1%20HD.png" group-title="SKY SPORT", SKY SPORT F1 HD
+http://live.safetv2.pro:23000/live/girasole/girasole/54.m3u8
+#EXTINF: -1 tvg-id="SkySportF1.it" tvg-name="SKY SPORT F1 SD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20F1%20SD.png" group-title="SKY SPORT", SKY SPORT F1 SD
+http://live.safetv2.pro:23000/live/girasole/girasole/53.m3u8
+#EXTINF: -1 tvg-id="SKY SPORT F1 HD" tvg-name="SKY SPORT F1 HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20F1%20HD.png" group-title="SKY SPORT", SKY SPORT F1 HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5571.m3u8
+#EXTINF: -1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP 4K HEVC H265" group-title="SKY SPORT", SKY SPORT MOTOGP 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6621.m3u8
+#EXTINF: -1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20MOTOGP%20FULL%20HD.png" group-title="SKY SPORT", SKY SPORT MOTOGP FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/46.m3u8
+#EXTINF: -1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20MOTOGP%20HD.png" group-title="SKY SPORT", SKY SPORT MOTOGP HD
+http://live.safetv2.pro:23000/live/girasole/girasole/45.m3u8
+#EXTINF: -1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP SD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20MOTOGP%20SD.png" group-title="SKY SPORT", SKY SPORT MOTOGP SD
+http://live.safetv2.pro:23000/live/girasole/girasole/44.m3u8
+#EXTINF: -1 tvg-id="SkySportMotoGP.it" tvg-name="SKY SPORT MOTOGP HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20SPORT%20MOTOGP%20HD.png" group-title="SKY SPORT", SKY SPORT MOTOGP HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5572.m3u8
+#EXTINF: -1 tvg-id="Eurosport1.it" tvg-name="SKY EUROSPORT1 4K HEVC H265" group-title="SKY SPORT", SKY EUROSPORT1 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6620.m3u8
+#EXTINF: -1 tvg-id="Eurosport1.it" tvg-name="SKY EUROSPORT 1 FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20EUROSPORT%201%20FULL%20HD.png" group-title="SKY SPORT", SKY EUROSPORT 1 FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/130.m3u8
+#EXTINF: -1 tvg-id="Eurosport1.it" tvg-name="SKY EUROSPORT 1 HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20EUROSPORT%201%20HD.png" group-title="SKY SPORT", SKY EUROSPORT 1 HD
+http://live.safetv2.pro:23000/live/girasole/girasole/129.m3u8
+#EXTINF: -1 tvg-id="Eurosport1.it" tvg-name="SKY EUROSPORT 1 HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20EUROSPORT%201%20HD.png" group-title="SKY SPORT", SKY EUROSPORT 1 HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5573.m3u8
+#EXTINF: -1 tvg-id="Eurosport2.it" tvg-name="SKY EUROSPORT2 4K HEVC H265" group-title="SKY SPORT", SKY EUROSPORT2 4K HEVC H265
+http://live.safetv2.pro:23000/live/girasole/girasole/6619.m3u8
+#EXTINF: -1 tvg-id="Eurosport2.it" tvg-name="SKY EUROSPORT 2 FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20EUROSPORT%202%20FULL%20HD.png" group-title="SKY SPORT", SKY EUROSPORT 2 FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/128.m3u8
+#EXTINF: -1 tvg-id="Eurosport2.it" tvg-name="SKY EUROSPORT 2 HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20EUROSPORT%202%20HD.png" group-title="SKY SPORT", SKY EUROSPORT 2 HD
+http://live.safetv2.pro:23000/live/girasole/girasole/127.m3u8
+#EXTINF: -1 tvg-id="Eurosport2.it" tvg-name="SKY EUROSPORT 2 HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20EUROSPORT%202%20HD.png" group-title="SKY SPORT", SKY EUROSPORT 2 HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5574.m3u8
+#EXTINF: -1 tvg-id="ClassHorse.it" tvg-name="SKY HORSE TV FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20HORSE%20TV%20FULL%20HD.png" group-title="SKY SPORT", SKY HORSE TV FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/109.m3u8
+#EXTINF: -1 tvg-id="GinxEsportsTV.it" tvg-name="SKY GINX ESPORT TV" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20GINX%20ESPORT%20TV.png" group-title="SKY SPORT", SKY GINX ESPORT TV
+http://live.safetv2.pro:23000/live/girasole/girasole/112.m3u8
+#EXTINF: -1 tvg-id="GinxEsportsTV.it" tvg-name="SKY GINX ESPORT TV +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20GINX%20ESPORT%20TV.png" group-title="SKY SPORT", SKY GINX ESPORT TV +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5577.m3u8
+#EXTINF: -1 tvg-id="Caccia.it" tvg-name="SKY CACCIA E PESCA FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20CACCIA%20E%20PESCA%20FULL%20HD.png" group-title="SKY SPORT", SKY CACCIA E PESCA FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/211.m3u8
+#EXTINF: -1 tvg-id="Caccia.it" tvg-name="SKY CACCIA E PESCA FULL HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20CACCIA%20E%20PESCA%20FULL%20HD.png" group-title="SKY SPORT", SKY CACCIA E PESCA FULL HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5578.m3u8
+#EXTINF: -1 tvg-id="Pesca.it" tvg-name="SKY PESCA E CACCIA FULL HD" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20PESCA%20E%20CACCIA%20FULL%20HD.png" group-title="SKY SPORT", SKY PESCA E CACCIA FULL HD
+http://live.safetv2.pro:23000/live/girasole/girasole/84.m3u8
+#EXTINF: -1 tvg-id="Pesca.it" tvg-name="SKY PESCA E CACCIA FULL HD +1" tvg-logo="http://live.safenewtv2.eu:8080/Picons/SKY%20PESCA%20E%20CACCIA%20FULL%20HD.png" group-title="SKY SPORT", SKY PESCA E CACCIA FULL HD +1
+http://live.safetv2.pro:23000/live/girasole/girasole/5579.m3u8
+
